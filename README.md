@@ -73,4 +73,4 @@ java -jar target\most-active-cookie-0.0.1-SNAPSHOT.jar -f src\logs\cookie_log.cs
 
 Alternatively, IDE run config can be modified to add the [parameters](https://ibb.co/2N6mKWN).
 
-[Run Successful](https://ibb.co/mhMCYf6)
+[Run Successful](https://ibb.co/5FVmv4N)
